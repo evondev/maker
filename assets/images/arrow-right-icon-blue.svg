@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-right-small-icon-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="arrow-right-small-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,5 L8,2 L12,5.5 L8,9 L8,6 L0,6 L0,5 L8,5 Z" id="icon" fill="#2583FD"></path>
+    </g>
+</svg>
